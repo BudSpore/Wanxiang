@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\exploded-aar\sample\sdk\unspecified\jars\libs\mobilepb.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="12db2628b7d6bcc9bb7632941f499bf860c503a4">
+        <dex dex="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\transforms\dex\debug\folders\1000\8\mobilepb_4870b2fe212e702c3f740b0a5b04cb9aa761aae5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\exploded-aar\sample\sdk\unspecified\jars\libs\tls_sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a6da9385bea5f3df761f9898b71589a7d1aaf64e">
+        <dex dex="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\transforms\dex\debug\folders\1000\8\tls_sdk_c1085c9c1dd18da186070b0dbfaad53e92026148\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f09e1664db40d4b5a83c35f167e7312b9765541">
+        <dex dex="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f2b14f1fa95e96cc5edb50c0538f65633a062441\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\exploded-aar\sample\sdk\unspecified\jars\libs\qalsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4d148fe8fbff316a51d44f596277b11fb6dac357">
+        <dex dex="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\transforms\dex\debug\folders\1000\8\qalsdk_a858704193da5a2d4adeea35d5cbcfda14045ffd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\exploded-aar\sample\sdk\unspecified\jars\libs\soload.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6becc9c086f7be9f85881c088d5c0a8d54553a6d">
+        <dex dex="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\transforms\dex\debug\folders\1000\8\soload_6a8c21239306d1ecb39c8317ca12da6327c0a367\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_85df7a6531f653c26effe251f376b47b16057300\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\exploded-aar\sample\sdk\unspecified\jars\libs\MiPush_SDK_Client_3_0_3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f38b0679890ed99af9675b33b296f9eb29924c0f">
+        <dex dex="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\transforms\dex\debug\folders\1000\8\MiPush_SDK_Client_3_0_3_43a7da52bea6e9155c536acd918fb41932c0055f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.0_35961ffa2728da45d90679eca8a04995077474df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Russell Ping\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_645509db1730fc67103213f18db74c728a5498db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\exploded-aar\sample\sdk\unspecified\jars\libs\bugly_2.4.0_imsdk_release.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dfcd0f03a806d4be369ab8381dee2681822ef35f">
+        <dex dex="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\transforms\dex\debug\folders\1000\8\bugly_2.4.0_imsdk_release_c9aeaebf582396563cf481bc0d69cdfab4791796\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.0_655ecbad25dcd51e0e91c438048c2de4cc4e38ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\exploded-aar\sample\sdk\unspecified\jars\libs\wup-1.0.0-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ed71856de464ff25335fdf6593662a2ba7f62535">
+        <dex dex="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\transforms\dex\debug\folders\1000\8\wup-1.0.0-SNAPSHOT_860d9f36b50cbc78f403dd17d2ca34b6cbdea26f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.0_bbcc6900303c57ccd488990306f8e8d7ded350bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_039f163d252cd6050d7278b47d2d7e1146684dc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_9705b2708dbf3a8234e6f4816b97434eacab0075\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.0_793f3aed443b1784fd766eeaa55dd00a761bd71d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\exploded-aar\sample\sdk\unspecified\jars\libs\HwPush_SDK_V2705.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f8e7dd11b85867206289b249ae12fd49128e9ca3">
+        <dex dex="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\transforms\dex\debug\folders\1000\8\HwPush_SDK_V2705_75ec8023b5686e814b42cc586a00ed27419786a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.0.0_b491065c9c4544e06b07f54eab54914a1a2a2a5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.reactivex-rxandroid-1.1.0_6a02c1fc1e18bed26fdafedef97da51b4f4f1a27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b9c611c0bc46a95cb3bbe0595187e3658d2bcfca">
+        <dex dex="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_963e606c3d927950e3a225854002f5b0d40e1360\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.0_1cd7293fd40da11423e6ccafb21d9482638fe55d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\exploded-aar\sample\sdk\unspecified\jars\libs\open_sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9df6cd90896d8685876a6e89d18a23d9240af9a0">
+        <dex dex="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\transforms\dex\debug\folders\1000\8\open_sdk_65da2503cb60304c21b001c26e25eb2a59f601b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\exploded-aar\sample\sdk\unspecified\jars\libs\libammsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b5fe9dcdaca41bdb2874b503a628723c658346c8">
+        <dex dex="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\transforms\dex\debug\folders\1000\8\libammsdk_55bbc274c6acf0c89a8ad8b439e3e5bfd896a8fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.0_1d349ec82404cd11cf4c3280158cd8d544e30e6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidsdk\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_9aa4f4ca5166ca92e4321d92733ab02fb69fad11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\exploded-aar\sample\sdk\unspecified\jars\libs\imsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d55efadd1ebbacb7d9231c204f3832dac85a3972">
+        <dex dex="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\transforms\dex\debug\folders\1000\8\imsdk_81ff650b917aab88f3cf446ff3277bad7ff46e27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\exploded-aar\sample\sdk\unspecified\jars\libs\httpclient-4.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="715a4ab48ecdc6e74042f8b957cfbc89619def09">
+        <dex dex="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\transforms\dex\debug\folders\1000\8\httpclient-4.1.1_1cd720a999983225638b3d8eb1cfdb2cd8d37cc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Russell Ping\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.6\2586312cd2b8a511e4c6236736f5a039fc0f2273\rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.1.6_2ae9f6bb0d47850351dad8dfa977648fdae8afda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.0_2c317354bc35d836ed874bf68a7756e597aea585\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\exploded-aar\sample\sdk\unspecified\jars\libs\httpmime-4.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1d78fd95cfbd4d8fb6f8726347fa3bda24d162ee">
+        <dex dex="D:\7splus\5.10\IM_Android_SDK_2.5.4\samples\sample\app\build\intermediates\transforms\dex\debug\folders\1000\8\httpmime-4.1.3_22b04c7d5dd6b073494764850ef95a65496a5763\classes.dex" />
+    </item>
+
+</items>
